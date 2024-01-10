@@ -5,7 +5,7 @@
 <h3 align="center">Junior Specialist in Data Science from Russia</h3>
 
 ## About me
--   :open_book: I'm currently learning **Data Science**
+-   :open_book: I am currently learning **Data Science**
 -   :trophy: I take part in competitions on **Kaggle**
 -   :briefcase: I am looking for a job or internship
 -   :handshake: I am open to new challenges and interesting tasks
