@@ -9,7 +9,7 @@
 -   :trophy: I take part in competitions on **Kaggle**
 -   :briefcase: I am looking for a job or internship
 -   I am open to new challenges and interesting tasks
--   :email: Reach me by [email](mailto: lavanda1242@mail.ru)
+-   :email: Reach me by [email](mailto:lavanda1242@mail.ru)
 
 \#ML \#DL \#DataScience \#Python \#opentowork \#MachineLearning \#DeepLearning
 
