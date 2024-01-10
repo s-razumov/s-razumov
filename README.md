@@ -23,18 +23,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
-          
-## My courses:
-<table>
-<tr>
-  <th>Courses`s name</th>
-  <th>The form of education</th>
-  <th>Status</th>
-</tr> 
-<tr>
-  <td>Karpov.Courses: Start ML</td>
-  <td>Distance</td>
-  <td>In progress.</td>
-</tr>
 
 
