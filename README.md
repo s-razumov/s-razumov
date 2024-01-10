@@ -15,8 +15,7 @@
 
 ## Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
-<i class="devicon-pandas-original-wordmark"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" <i class="devicon-pandas-original-wordmark"></i> width="40" ht="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" width="40" height="40"/>
