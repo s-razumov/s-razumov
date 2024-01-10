@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Sergei 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">A novice specialist in data science from Russia</h3>
+<h3 align="center">Junior Specialist in Data Science from Russia</h3>
 
 ****I am looking for a job or internship and I am open to new challenges and interesting tasks.****
 
