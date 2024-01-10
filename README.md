@@ -14,7 +14,8 @@
 \#ML \#DL \#DataScience \#Python \#opentowork \#MachineLearning \#DeepLearning
 
 ## Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
+
         
 Python (pandas, polar, numpy, matplotlib, seaborn, sklearn)
 
