@@ -2,18 +2,20 @@
 
 <h1 align="center">Hi there, I'm Sergei 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Specialist in Data Science from Russia 🇷🇺</h3>
+<h3 align="center">Junior Specialist in Data Science from Russia</h3>
 
 ### About me
 -   :open_book: I'm currently learning **Data Science**
 -   :trophy: I take part in competitions on **Kaggle**
 -   :briefcase: I am looking for a job or internship
--   I am open to new challenges and interesting tasks
+-   :handshake: I am open to new challenges and interesting tasks
 -   :email: Reach me by [email](mailto:lavanda1242@mail.ru)
 
 \#ML \#DL \#DataScience \#Python \#opentowork \#MachineLearning \#DeepLearning
 
 ## Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+        
 Python (pandas, polar, numpy, matplotlib, seaborn, sklearn)
 
 SQL
