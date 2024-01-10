@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A novice specialist in data science from Russia 🇷🇺</h3>
 
-****I am looking for a job or internship and I am open to new challenges and interesting tasks.
+****I am looking for a job or internship and I am open to new challenges and interesting tasks.****
 
 \#ML \#DataScience \#Python \#opentowork 
 
